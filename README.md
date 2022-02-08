@@ -1,0 +1,2 @@
+# homebrew-totp
+TOTP CLI
